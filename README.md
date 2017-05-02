@@ -1,11 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+(https://github.com/DiegoRamires/onebitcode_exchange/blob/master/public/logo.png)
 
-Things you may want to cover:
+Aplicativo que simula a conversão de moedas. Foi feito com o framework Ruby on Rails. Serve para um usuário fazer uma consulta rápida de quanto vale seu dinheiro comparando a quantidade digitada em uma moeda de outro país. As escolhas podem ser desde uma moeda local ou consultando entre as principais moedas do mundo disponiveis.
 
-* Ruby version
+(https://github.com/DiegoRamires/onebitcode_exchange/blob/master/public/background-img.jpg)
+
+Sua linguagem é o Português mas em breve também estará disponivel em mais idiomas.
+
+Por que usar esse aplicativo?
+Ele é leve, tem design responsivo e um layout agradável e auto descritivo tornando a utilização simples para todos.
+
+(https://github.com/DiegoRamires/onebitcode_exchange/blob/master/public/print.png)
+
+* Ruby version 2.3
 
 * System dependencies
 
