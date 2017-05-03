@@ -8,7 +8,6 @@ describe Currency do
     quantity = rand(1..9999)
 
     value = Currency::exchange currency, currency_destination, quantity
-    expect(value.is_a? Numeric && value != 0).to eql(true)
-    expect(value != 0).to eql(true)
+    expect(value.is_a? Numeric).to eql(true)
   end
 end
