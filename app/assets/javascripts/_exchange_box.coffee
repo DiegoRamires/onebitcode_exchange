@@ -11,7 +11,7 @@ $(document).ready ->
                   currency_destination: $("#currency_destination").val(),
                   quantity: $("#quantity").val()
                 }
-                # chama o backend
+                # chama o backend da aplicação atraves do ajax
           error: (jqXHR, textStatus, errorThrown) ->
             alert textStatus
           # success: (data, text  .exchange_box{Status, jqXHR}) ->
