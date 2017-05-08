@@ -1,9 +1,5 @@
 # README
 
-![ruby](https://img.shields.io/badge/Ruby-2.3.0-red.svg)
-![rails](https://img.shields.io/badge/Rails-5.1.0-red.svg)
-![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
-
 ![ScreenShot](https://github.com/DiegoRamires/onebitcode_exchange/blob/master/public/logo.png)
 
 Aplicativo que simula a conversão de moedas. Serve para um usuário fazer uma consulta rápida de quanto vale seu dinheiro comparando a quantidade digitada em uma moeda estrangeira. As escolhas podem ser desde uma moeda local ou consultando entre as principais moedas do mundo disponiveis.
